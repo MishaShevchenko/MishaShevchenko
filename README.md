@@ -6,11 +6,7 @@
 
 ---
 
-![MykhailoShevchenko](./img/my%20newfoto.jfif)
-
 ### About Myself
-
----
 
 - I'm a passionate front-end developer from Ukraine.
 
@@ -19,6 +15,8 @@
 ### Where i live? 🌍
 
 - Utrecht Naderlands
+
+---
 
 ### Relevant Skills
 

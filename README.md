@@ -2,7 +2,7 @@
 
 ---
 
-## Welkome to my profile 🧑‍💻
+## Welcome to my profile 🧑‍💻
 
 ---
 
@@ -16,9 +16,9 @@
 
 ---
 
-### Where i live? 🌍
+### Where do I live now 🌍
 
-- Utrecht Naderlands
+- Utrecht Netherlands
 
 ### Relevant Skills
 

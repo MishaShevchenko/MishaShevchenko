@@ -1,41 +1,38 @@
-# Hello! Nice to see you 👋
+# Hello there! 👋
 
 ---
 
-## Welkome to my profile 🧑‍💻
+## Welcome to My Coding Haven! 🧑‍💻
+
+- **HTML5:** Crafting the web with semantic precision 🌐
+- **CSS3:** Styling the digital canvas with an artistic touch 🎨
+- **JavaScript, React** Commanding the code to bring ideas to life
 
 ---
 
-### About Myself
+### About Me
 
-- I'm a passionate front-end developer from Ukraine.
-
----
-
-### Where i live? 🌍
-
-- Utrecht Naderlands
+Hey, I'm a passionate front-end developer hailing from the beautiful landscapes
+of Ukraine. Coding is my passion and my playground
 
 ---
 
-### Relevant Skills
+### Where I Currently Reside 🌍
 
-- HTML5: 🌐
-- CSS3: 🎨
-- Javascript, C
-- Git: 🐱‍💻
-- Computer networking: 💻🔗
-- Linux OS: 🐧
-- IT Support: 💻💼
-- PowerShell: 💥
-- Git Bash: 💥
-- IPv4, IPv6: ➕🔗➕
-- Troubleshooting: 💥
-- Computer networking: 💻🔗
-- CyberSecurity: 🔐
+I call Utrecht, Netherlands, my current home. Exploring the tech scene while
+enjoying the Dutch charm!
 
-### Contact information
+---
 
-**LinkedIn:** <www.linkedin.com/in/misha-shevchenko>
+### My hobbies
 
-- **E-mail:** <shevchenko21021984@gmail.com>
+- Traveling ✈️
+- Listening to music 🎸
+- Cycling 🚴
+
+### Get in Touch 📬
+
+[Connect with me on LinkedIn](www.linkedin.com/in/misha-shevchenko)💼
+
+Feel free to explore my repositories, and let's build something amazing together
+! 🚀

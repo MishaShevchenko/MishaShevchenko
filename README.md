@@ -7,6 +7,8 @@
 - **HTML5:** Crafting the web with semantic precision 🌐
 - **CSS3:** Styling the digital canvas with an artistic touch 🎨
 - **JavaScript, React** Commanding the code to bring ideas to life
+=======
+## Welcome to my profile 🧑‍💻
 
 ---
 
@@ -14,13 +16,6 @@
 
 Hey, I'm a passionate front-end developer hailing from the beautiful landscapes
 of Ukraine. Coding is my passion and my playground
-
----
-
-### Where I Currently Reside 🌍
-
-I call Utrecht, Netherlands, my current home. Exploring the tech scene while
-enjoying the Dutch charm!
 
 ---
 

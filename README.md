@@ -1,5 +1,7 @@
 # Hello there! 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MishaShevchenko&show_icons=true&theme=radical)
+
 ---
 
 ## Welcome to My Coding Haven! 🧑‍💻
@@ -7,6 +9,8 @@
 - **HTML5:** Crafting the web with semantic precision 🌐
 - **CSS3:** Styling the digital canvas with an artistic touch 🎨
 - **JavaScript, React** Commanding the code to bring ideas to life
+
+![Funny Hacker GIF](https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif)
 
 ---
 
@@ -30,9 +34,17 @@ enjoying the Dutch charm!
 - Listening to music 🎸
 - Cycling 🚴
 
+---
+
 ### Get in Touch 📬
 
-[Connect with me on LinkedIn](www.linkedin.com/in/misha-shevchenko)💼
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/MishaShevchenko)
 
-Feel free to explore my repositories, and let's build something amazing together
-! 🚀
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misha-shevchenko)
+
+---
+
+Feel free to explore my repositories, and let's build something amazing
+together! 🚀
+
+![views](https://komarev.com/ghpvc/?username=your-github-username&color=green)

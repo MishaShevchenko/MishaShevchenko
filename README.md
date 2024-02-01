@@ -1,9 +1,5 @@
 # Hello there! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MishaShevchenko&show_icons=true&theme=radical)
-
----
-
 ## Welcome to My Coding Haven! 🧑‍💻
 
 - **HTML5:** Crafting the web with semantic precision 🌐
@@ -46,5 +42,7 @@ enjoying the Dutch charm!
 
 Feel free to explore my repositories, and let's build something amazing
 together! 🚀
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MishaShevchenko&show_icons=true&theme=radical)
 
 ![views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
